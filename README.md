@@ -1,9 +1,7 @@
 
 # Banking sample app
 
-## Setup
-
-**Run with Spring Boot
+## Run the app with Spring Boot
 
 ```bash
 mvn spring-boot:run
@@ -24,7 +22,11 @@ GET localhost:8080/api/v1/account/{account_id}
 ```
 
 ## Future developments
+
 Authentication
+
 Pagination of the results
+
 Using real database with environment-specific configuration
+
 Caching the results
