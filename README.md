@@ -22,3 +22,9 @@ Account data:
 ```
 GET localhost:8080/api/v1/account/{account_id}
 ```
+
+## Future developments
+Authentication
+Pagination of the results
+Using real database with environment-specific configuration
+Caching the results
