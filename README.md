@@ -5,8 +5,6 @@
 
 **Run with Spring Boot
 
-Alternatively, you can run the app without packaging it using -
-
 ```bash
 mvn spring-boot:run
 ```
